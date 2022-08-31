@@ -234,21 +234,24 @@ const focused = () => {
   return results;
 };
 
-const DefaultTheme: ThemeOptions = {
-  ...BaseTheme,
-  components: makeOverrides(light),
-  palette: light,
-  focused: focused(),
-};
-
-const DarkTheme: ThemeOptions = {
-  ...BaseTheme,
-  components: makeOverrides(dark),
-  palette: dark,
-  focused: focused(),
+export const getTheme = (theme: 'light' | 'dark') => {
+  if (theme === 'dark') {
+    return responsiveFontSizes(createTheme({
+      ...BaseTheme,
+      components: makeOverrides(dark),
+      palette: dark,
+      focused: focused(),
+    }));
+  }
+  return responsiveFontSizes(createTheme({
+    ...BaseTheme,
+    components: makeOverrides(light),
+    palette: light,
+    focused: focused(),
+  }));
 };
 
 export default {
-  light: responsiveFontSizes(createTheme(DefaultTheme)),
-  dark: responsiveFontSizes(createTheme(DarkTheme)),
+  light: getTheme('light'),
+  dark: getTheme('dark'),
 };
