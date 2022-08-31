@@ -263,7 +263,7 @@ const Styled = styled(
         '&:-webkit-autofill, &:-webkit-autofill:hover, &:-webkit-autofill:focus, &:-webkit-autofill:active':
           {
             // Override's browser's default autofill background color
-            '-webkit-box-shadow': `0 0 0px 100px ${theme.palette?.supportive_white?.supportive_white_base} inset`,
+            WebkitBoxShadow: `0 0 0px 100px ${theme.palette?.supportive_white?.supportive_white_base} inset`,
           },
       },
       '& .MuiOutlinedInput-notchedOutline': {
