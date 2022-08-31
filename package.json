@@ -1,6 +1,6 @@
 {
   "name": "@jsnmgpnty/mui-themed",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Collection of web components based on React MUI",
   "license": "MIT",
   "main": "lib/index.js",

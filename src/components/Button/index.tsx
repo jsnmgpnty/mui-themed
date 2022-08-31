@@ -78,6 +78,7 @@ export const Button = styled(
     backgroundColor: _b,
     borderColor: _bc,
     hoverBackgroundColor: _h,
+    hoverShadow: _hs,
     children,
     ...props
   }: InternalButtonProps) => (
