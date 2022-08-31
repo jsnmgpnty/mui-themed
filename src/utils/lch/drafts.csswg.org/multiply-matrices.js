@@ -28,7 +28,7 @@ module.exports = function multiplyMatrices(A, B) {
       }
 
       return row.reduce((a, c, i) => a + c * (col[i] || 0), 0);
-    }),
+    })
   );
 
   if (m === 1) {

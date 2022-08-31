@@ -29,7 +29,12 @@ function isLchWithinRgb(l: number, c: number, h: number): boolean {
   return rgb.reduce((a, b) => a && b >= 0 - ε && b <= 1 + ε, true);
 }
 
-function forceIntoGamut(l: number, c: number, h: number, isLchWithin: WithinLchFunctionType): LchColorSRGB {
+function forceIntoGamut(
+  l: number,
+  c: number,
+  h: number,
+  isLchWithin: WithinLchFunctionType
+): LchColorSRGB {
   // Moves an lch color into the sRGB gamut
   // by holding the l and h steady,
   // and adjusting the c via binary-search
@@ -59,7 +64,9 @@ function forceIntoGamut(l: number, c: number, h: number, isLchWithin: WithinLchF
 function percentToHex(percentage: number): string {
   const decimalValue = Math.round((percentage * 255) / 100);
   const hexValue =
-    percentage < 7 ? '0' + decimalValue.toString(16).toUpperCase() : decimalValue.toString(16).toUpperCase();
+    percentage < 7
+      ? '0' + decimalValue.toString(16).toUpperCase()
+      : decimalValue.toString(16).toUpperCase();
   return hexValue;
 }
 
@@ -76,7 +83,11 @@ function getRgbPercentageFromLch(args: LchConvertRequest): LchConversionResult {
     const r = forceIntoGamut(request.l, request.c, request.h, isLchWithinRgb);
     lchColor = { ...lchColor, ...r };
   }
-  const res = LCH_to_sRGB([lchColor.l, lchColor.c, lchColor.h]) as Array<number>;
+  const res = LCH_to_sRGB([
+    lchColor.l,
+    lchColor.c,
+    lchColor.h,
+  ]) as Array<number>;
   return {
     value: res.map((c) => calculatePercent(c, request.isPrecise)),
     isWithinSRGB: lchColor.isWithinLch,
@@ -84,15 +95,20 @@ function getRgbPercentageFromLch(args: LchConvertRequest): LchConversionResult {
 }
 
 function checkSRGBBounds(r: number, g: number, b: number, a: number) {
-  if (r < 0 || r > 1) throw 'Incorrect sRGB value! (r is out of [0,1] interval): ' + r;
-  if (g < 0 || g > 1) throw 'Incorrect sRGB value! (g is out of [0,1] interval): ' + g;
-  if (b < 0 || b > 1) throw 'Incorrect sRGB value! (b is out of [0,1] interval): ' + b;
-  if (a < 0 || a > 1) throw 'Incorrect sRGB value! (a is out of [0,1] interval): ' + a;
+  if (r < 0 || r > 1)
+    throw 'Incorrect sRGB value! (r is out of [0,1] interval): ' + r;
+  if (g < 0 || g > 1)
+    throw 'Incorrect sRGB value! (g is out of [0,1] interval): ' + g;
+  if (b < 0 || b > 1)
+    throw 'Incorrect sRGB value! (b is out of [0,1] interval): ' + b;
+  if (a < 0 || a > 1)
+    throw 'Incorrect sRGB value! (a is out of [0,1] interval): ' + a;
 }
 
 function hexToSRGB(hex: string): SRGBColor {
   hex = hex.replace('#', '').toUpperCase();
-  if (!hex || typeof hex !== 'string' || !hex.length) throw 'Incorrect Hex string format! (0)';
+  if (!hex || typeof hex !== 'string' || !hex.length)
+    throw 'Incorrect Hex string format! (0)';
   if (!/^[A-F\d]+$/.test(hex)) throw 'Incorrect Hex string format! (1)';
 
   if (hex.length < 3) hex = hex.padStart(6, hex);
@@ -103,7 +119,8 @@ function hexToSRGB(hex: string): SRGBColor {
   if (hex.length === 3) hex += hex;
 
   const channels = hex.match(/.{2}/g);
-  if (!channels || channels.length < 3) throw 'Incorrect Hex string format! (2)';
+  if (!channels || channels.length < 3)
+    throw 'Incorrect Hex string format! (2)';
 
   const values = channels.map((x) => parseInt(x, 16) / 255);
   if (values.some(Number.isNaN)) throw 'Incorrect Hex string format! (3)';
@@ -138,6 +155,10 @@ export function lchToHex(args: LchConvertRequest): LchConvertToHexResult {
 
 export function lchToRgb(args: LchConvertRequest): LchConvertToSRGBResult {
   const res = getRgbPercentageFromLch(args);
-  const str = 'rgb(' + res.value.map((x) => `${x}%`).join(' ') + alphaToString(args.a) + ')';
+  const str =
+    'rgb(' +
+    res.value.map((x) => `${x}%`).join(' ') +
+    alphaToString(args.a) +
+    ')';
   return { value: res.value, string: str };
 }

@@ -16,7 +16,11 @@ export type SRGBColor = {
   a?: number;
 };
 
-export type WithinLchFunctionType = (l: number, c: number, h: number) => boolean;
+export type WithinLchFunctionType = (
+  l: number,
+  c: number,
+  h: number
+) => boolean;
 
 export type LchConversionResult = {
   value: number[];

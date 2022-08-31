@@ -1,6 +1,6 @@
 {
-  "name": "@jama/mui-themed",
-  "version": "0.0.2",
+  "name": "@jsnmgpnty/mui-themed",
+  "version": "0.0.4",
   "description": "Collection of web components based on React MUI",
   "license": "MIT",
   "main": "lib/index.js",
@@ -89,6 +89,6 @@
     "typescript": "^4.7.4"
   },
   "publishConfig": {
-    "@jama:registry": "https://npm.pkg.github.com"
+    "@jsnmgpnty:registry": "https://npm.pkg.github.com"
   }
 }
