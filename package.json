@@ -1,6 +1,6 @@
 {
   "name": "@jama/mui-themed",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Collection of web components based on React MUI",
   "license": "MIT",
   "main": "lib/index.js",
@@ -9,7 +9,6 @@
     "lib/**/*"
   ],
   "dependencies": {
-    "@545490/karta-lch-utils": "^0.0.5",
     "@emotion/react": "^11.9.3",
     "@emotion/styled": "^11.9.3",
     "@mui/icons-material": "^5.8.4",

@@ -5,7 +5,7 @@ import {
   LchConvertToSRGBResult,
   lchToHex,
   lchToRgb,
-} from '@545490/karta-lch-utils';
+} from '../utils/lch';
 import { BASE_PALETTE } from './constants';
 import { BrandColorRange, ColorScale } from './types';
 

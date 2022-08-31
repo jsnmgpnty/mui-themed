@@ -2,11 +2,6 @@
 # yarn lockfile v1
 
 
-"@545490/karta-lch-utils@^0.0.5":
-  version "0.0.5"
-  resolved "https://npm.pkg.github.com/download/@545490/karta-lch-utils/0.0.5/5d92e7b226f7684f7b927dcd1e8ca885c3ab1955#5d92e7b226f7684f7b927dcd1e8ca885c3ab1955"
-  integrity sha512-lR1wpxg3XTbRlWcz8+TBwsNuEfGp0m6MU523Cc6+z24VDRHDtR/WGeGXuyDLCjb6bpJoYx2ABk/ePDHTDC3V8g==
-
 "@ampproject/remapping@^2.1.0":
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/@ampproject/remapping/-/remapping-2.2.0.tgz#56c133824780de3174aed5ab6834f3026790154d"
