@@ -168,8 +168,8 @@ const Component = ({
             bgcolor="supportive_black.supportive_black_lightness_50"
             border={`1px solid ${theme.palette?.supportive_offBlack_opacity?.supportive_offBlack_opacity_20}`}
             sx={{
-              borderTopLeftRadius: theme.cornerRadius.md,
-              borderBottomLeftRadius: theme.cornerRadius.md,
+              borderTopLeftRadius: theme.cornerRadius.md ?? 10,
+              borderBottomLeftRadius: theme.cornerRadius.md ?? 10,
             }}
             ref={leadRef}
           >
@@ -242,12 +242,12 @@ const Styled = styled(
   console.log(theme);
   return {
     backgroundColor: theme.palette?.supportive_white?.supportive_white_base,
-    borderRadius: theme.cornerRadius.md,
+    borderRadius: theme.cornerRadius?.md ?? 10,
     '& .MuiOutlinedInput-root': {
       alignItems: multiline ? 'flex-start' : 'center',
     },
     '& .MuiOutlinedInput-input': {
-      borderRadius: theme.cornerRadius.md,
+      borderRadius: theme.cornerRadius?.md ?? 10,
       backgroundColor: theme.palette?.supportive_white?.supportive_white_base,
       color: theme.palette?.text_offBlackOnLight?.text_offBlackOnLight_100,
       ...typography.textMd,
