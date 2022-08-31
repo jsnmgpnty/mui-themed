@@ -7,7 +7,8 @@ import {
   PaletteOptions,
 } from '@mui/material';
 import typography from './typography';
-import { dark, light } from './palettes';
+import { generateColorPalette } from './palettes';
+import { BASE_PALETTE } from './constants';
 
 const makeOverrides = (palette: PaletteOptions): Components<Theme> => ({
   MuiCssBaseline: {
@@ -134,7 +135,7 @@ const makeOverrides = (palette: PaletteOptions): Components<Theme> => ({
   },
 });
 
-const BaseTheme: ThemeOptions = {
+const getBaseTheme = (): ThemeOptions => ({
   typography,
   spacing: 8,
   shape: {
@@ -153,14 +154,6 @@ const BaseTheme: ThemeOptions = {
     xl: '0px 20px 24px -4px rgba(16, 24, 40, 0.1), 0px 8px 8px -4px rgba(16, 24, 40, 0.04)',
     xl2: '0px 24px 48px -12px rgba(16, 24, 40, 0.25)',
     xl3: '0px 32px 64px -12px rgba(16, 24, 40, 0.2)',
-  },
-  focused: {
-    primary_100_xs: `0px 1px 2px rgba(23, 33, 54, 0.05), 0px 0px 0px 4px ${light.primary_brandDark?.primary_brandDark_100}`,
-    error_100_xs: `0px 1px 2px rgba(23, 33, 54, 0.05), 0px 0px 0px 4px ${light.functional_error?.functional_error_100}`,
-    offBlack_100_xs: `0px 1px 2px rgba(23, 33, 54, 0.05), 0px 0px 0px 4px ${light.supportive_offBlack?.supportive_offBlack_100}`,
-    primary_100_sm: ` 0px 1px 3px rgba(23, 33, 54, 0.1), 0px 1px 2px rgba(23, 33, 54, 0.06), 0px 0px 0px 4px ${light.primary_brandDark?.primary_brandDark_100}`,
-    offBlack_100_sm: `0px 1px 2px rgba(23, 33, 54, 0.05), 0px 0px 0px 4px ${light.functional_error?.functional_error_100}`,
-    focused_800_sm: `0px 1px 2px rgba(23, 33, 54, 0.05), 0px 0px 0px 4px ${light.functional_error?.functional_error_100}`,
   },
   blurs: {
     light: {
@@ -200,9 +193,9 @@ const BaseTheme: ThemeOptions = {
       },
     },
   },
-};
+});
 
-const focused = () => {
+const focused = (palette: PaletteOptions) => {
   const ranges = ['100', '800'];
   const sizes = [
     {
@@ -226,7 +219,7 @@ const focused = () => {
       sizes.forEach((size: { name: string; template: string }) => {
         results[`${color.name}_${range}_${size.name}`] = size.template.replace(
           '#color',
-          light[color.color][`${color.color}_${range}`]
+          palette[color.color][`${color.color}_${range}`]
         );
       });
     });
@@ -235,20 +228,17 @@ const focused = () => {
 };
 
 export const getTheme = (theme: 'light' | 'dark') => {
-  if (theme === 'dark') {
-    return responsiveFontSizes(createTheme({
-      ...BaseTheme,
-      components: makeOverrides(dark),
-      palette: dark,
-      focused: focused(),
-    }));
-  }
-  return responsiveFontSizes(createTheme({
-    ...BaseTheme,
-    components: makeOverrides(light),
-    palette: light,
-    focused: focused(),
-  }));
+  const base = getBaseTheme();
+  const palette = generateColorPalette({
+    mode: theme,
+    ...BASE_PALETTE,
+  });
+  const themeProps = {
+    components: makeOverrides(palette),
+    focused: focused(palette),
+    palette,
+  };
+  return responsiveFontSizes(createTheme({ ...base, ...themeProps }));
 };
 
 export default {

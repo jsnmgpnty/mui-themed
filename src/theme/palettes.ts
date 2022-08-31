@@ -103,7 +103,7 @@ const getBrandColorOpacityRange = (
   return brand;
 };
 
-const generateColorPalette = (colors?: PaletteOptions): PaletteOptions => {
+export const generateColorPalette = (colors?: PaletteOptions): PaletteOptions => {
   if (!colors) return BASE_PALETTE;
 
   const primary_brandLight = getBrandColorRange(
