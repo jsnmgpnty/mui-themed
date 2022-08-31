@@ -20,7 +20,7 @@ export type TextFieldProps = Omit<MuiTextFieldProps, 'error' | 'maxLength'> & {
   maxLength?: string;
   error?: string;
   labelProps?: TextProps;
-  ref?: React.Ref<any>;
+  ref?: React.Ref<HTMLInputElement | HTMLTextAreaElement>;
   multiline?: boolean;
   selectItems?: {
     label: string;
@@ -184,11 +184,11 @@ const Component = ({
           inputProps={{
             maxLength: props.maxLength,
           }}
-          variant={'outlined' as any}
+          variant="outlined"
           disabled={props.disabled}
           id={props.name}
           error={!!error}
-          onChange={handleInputChange as any}
+          onChange={handleInputChange}
           InputProps={{
             sx: {
               pl: getInputLeftPadding(
@@ -238,64 +238,74 @@ const Styled = styled(
   React.forwardRef((props: TextFieldProps, ref: any) => (
     <Component {...props} ref={ref} />
   ))
-)(({ theme, error, multiline }: any) => {
-  console.log(theme);
-  return {
-    backgroundColor: theme.palette?.supportive_white?.supportive_white_base,
-    borderRadius: theme.cornerRadius?.md ?? 10,
-    '& .MuiOutlinedInput-root': {
-      alignItems: multiline ? 'flex-start' : 'center',
-    },
-    '& .MuiOutlinedInput-input': {
-      borderRadius: theme.cornerRadius?.md ?? 10,
+)(
+  ({
+    theme,
+    error,
+    multiline,
+  }: {
+    theme: ITheme;
+    error?: string;
+    multiline?: boolean;
+  }) => {
+    console.log(theme);
+    return {
       backgroundColor: theme.palette?.supportive_white?.supportive_white_base,
-      color: theme.palette?.text_offBlackOnLight?.text_offBlackOnLight_100,
-      ...typography.textMd,
-      '&:-webkit-autofill, &:-webkit-autofill:hover, &:-webkit-autofill:focus, &:-webkit-autofill:active':
-        {
-          // Override's browser's default autofill background color
-          '-webkit-box-shadow': `0 0 0px 100px ${theme.palette?.supportive_white?.supportive_white_base} inset`,
+      borderRadius: theme.cornerRadius?.md ?? 10,
+      '& .MuiOutlinedInput-root': {
+        alignItems: multiline ? 'flex-start' : 'center',
+      },
+      '& .MuiOutlinedInput-input': {
+        borderRadius: theme.cornerRadius?.md ?? 10,
+        backgroundColor: theme.palette?.supportive_white?.supportive_white_base,
+        color: theme.palette?.text_offBlackOnLight?.text_offBlackOnLight_100,
+        ...typography.textMd,
+        '&:-webkit-autofill, &:-webkit-autofill:hover, &:-webkit-autofill:focus, &:-webkit-autofill:active':
+          {
+            // Override's browser's default autofill background color
+            '-webkit-box-shadow': `0 0 0px 100px ${theme.palette?.supportive_white?.supportive_white_base} inset`,
+          },
+      },
+      '& .MuiOutlinedInput-notchedOutline': {
+        borderColor:
+          theme.palette?.supportive_offBlack_opacity
+            ?.supportive_offBlack_opacity_20,
+      },
+      '& .Mui-focused .MuiOutlinedInput-notchedOutline': {
+        borderColor: theme.palette?.primary_brandDark?.primary_brandDark_base,
+        boxShadow: error
+          ? theme.focused.error_100_xs
+          : theme.focused.primary_100_xs,
+      },
+      '& .Mui-error .MuiOutlinedInput-notchedOutline': {
+        borderColor: theme.palette?.functional_error?.functional_error_300,
+      },
+      '& .MuiFormHelperText-contained': {
+        marginLeft: 0,
+      },
+      '& .MuiFormHelperText-root.Mui-error': {
+        color: theme.palette?.functional_error?.functional_error_base,
+      },
+      '& .MuiOutlinedInput-multiline': {
+        paddingTop: 0,
+        paddingBottom: 0,
+      },
+      '& .MuiSvgIcon-InputRoot': {
+        display: 'flex',
+        alignItems: 'center',
+        color:
+          theme.palette?.supportive_offBlack_opacity
+            ?.supportive_offBlack_opacity_60,
+        '&.start': {
+          marginRight: theme.spacing(1),
         },
-    },
-    '& .MuiOutlinedInput-notchedOutline': {
-      borderColor:
-        theme.palette?.supportive_offBlack_opacity
-          ?.supportive_offBlack_opacity_20,
-    },
-    '& .Mui-focused .MuiOutlinedInput-notchedOutline': {
-      borderColor: theme.palette?.primary_brandDark?.primary_brandDark_base,
-      boxShadow: error
-        ? theme.focused.error_100_xs
-        : theme.focused.primary_100_xs,
-    },
-    '& .Mui-error .MuiOutlinedInput-notchedOutline': {
-      borderColor: theme.palette?.functional_error?.functional_error_300,
-    },
-    '& .MuiFormHelperText-contained': {
-      marginLeft: 0,
-    },
-    '& .MuiFormHelperText-root.Mui-error': {
-      color: theme.palette?.functional_error?.functional_error_base,
-    },
-    '& .MuiOutlinedInput-multiline': {
-      paddingTop: 0,
-      paddingBottom: 0,
-    },
-    '& .MuiSvgIcon-InputRoot': {
-      display: 'flex',
-      alignItems: 'center',
-      color:
-        theme.palette?.supportive_offBlack_opacity
-          ?.supportive_offBlack_opacity_60,
-      '&.start': {
-        marginRight: theme.spacing(1),
+        '&.end': {
+          marginLeft: theme.spacing(1),
+        },
       },
-      '&.end': {
-        marginLeft: theme.spacing(1),
-      },
-    },
-  };
-});
+    };
+  }
+);
 
 export const TextField = React.forwardRef((props: TextFieldProps, ref) => (
   <Styled {...props} ref={ref} />
