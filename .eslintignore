@@ -1,0 +1,9 @@
+node_modules/
+**/public/
+**/build/
+**/static/
+**/dist/
+**/lib/
+*.snap
+.eslintrc.js
+jest.config.ts

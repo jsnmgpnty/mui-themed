@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Switch Default 1`] = `
+Array [
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap"
+    rel="stylesheet"
+  />,
+  <div
+    className="MuiBox-root css-16uhgig"
+  >
+    <div
+      className="MuiBox-root css-16r9pk3"
+    >
+      <span
+        className="MuiSwitch-root MuiSwitch-sizeMedium css-1ai40ul-MuiSwitch-root"
+      >
+        <span
+          className="MuiSwitch-switchBase MuiSwitch-colorPrimary MuiButtonBase-root MuiSwitch-switchBase MuiSwitch-colorPrimary PrivateSwitchBase-root css-2h18el-MuiButtonBase-root-MuiSwitch-switchBase"
+          onBlur={[Function]}
+          onContextMenu={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={null}
+        >
+          <input
+            className="MuiSwitch-input PrivateSwitchBase-input css-1m9pwf3"
+            onChange={[Function]}
+            type="checkbox"
+          />
+          <span
+            className="MuiSwitch-thumb css-jsexje-MuiSwitch-thumb"
+          />
+        </span>
+        <span
+          className="MuiSwitch-track css-1yjjitx-MuiSwitch-track"
+        />
+      </span>
+    </div>
+  </div>,
+]
+`;

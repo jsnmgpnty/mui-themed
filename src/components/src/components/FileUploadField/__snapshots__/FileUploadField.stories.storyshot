@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots File Upload Field Default 1`] = `
+Array [
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap"
+    rel="stylesheet"
+  />,
+  <div
+    className="MuiBox-root css-16uhgig"
+  >
+    <div
+      className="MuiBox-root css-1cl7zdz"
+    >
+      <div
+        className="MuiBox-root css-68zbsl"
+      >
+        <div
+          className="MuiBox-root css-1qm1lh"
+        >
+          <div
+            className="MuiBox-root css-zp76v7"
+          >
+            <label
+              className="MuiBox-root css-0"
+            >
+              <span
+                className="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButtonBase-root  css-1kdmbyu-MuiButtonBase-root-MuiButton-root"
+                onBlur={[Function]}
+                onContextMenu={[Function]}
+                onDragLeave={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                onKeyUp={[Function]}
+                onMouseDown={[Function]}
+                onMouseLeave={[Function]}
+                onMouseUp={[Function]}
+                onTouchEnd={[Function]}
+                onTouchMove={[Function]}
+                onTouchStart={[Function]}
+                role="button"
+                tabIndex={0}
+              >
+                Select a file
+              </span>
+              <input
+                className="MuiBox-root css-1hyfx7x"
+                data-testid="file-upload-field-input-undefined"
+                onChange={[Function]}
+                type="file"
+              />
+            </label>
+            <input
+              className="MuiBox-root css-1vbdzms"
+              data-testid="file-upload-field-text-undefined"
+              disabled={true}
+              type="text"
+              value="https://images2.minutemediacdn.com/image/upload/c_crop,h_1126,w_2000,x_0,y_181/f_auto,q_auto,w_1100/v1554932288/shape/mentalfloss/12531-istock-637790866.jpg"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;

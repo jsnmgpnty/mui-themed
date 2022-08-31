@@ -1,0 +1,227 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Multi Step Default 1`] = `
+Array [
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap"
+    rel="stylesheet"
+  />,
+  <div
+    className="MuiBox-root css-16uhgig"
+  >
+    <div
+      className="MuiBox-root css-1bxarir"
+    >
+      <div
+        className="MuiBox-root css-178yklu"
+      >
+        <div
+          className="MuiBox-root css-1l4w6pd"
+        >
+          <div
+            className="MuiBox-root css-1yjvs5a"
+          >
+            <div
+              className="MuiBox-root css-k008qs"
+            >
+              <div
+                className="MuiBox-root css-70qvj9"
+              >
+                <div
+                  className="MuiBox-root css-129nqpz"
+                >
+                  1
+                </div>
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+              </div>
+              <div
+                className="MuiBox-root css-70qvj9"
+              >
+                <div
+                  className="MuiBox-root css-12grxnk"
+                >
+                  2
+                </div>
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+              </div>
+              <div
+                className="MuiBox-root css-70qvj9"
+              >
+                <div
+                  className="MuiBox-root css-12grxnk"
+                >
+                  3
+                </div>
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+              </div>
+              <div
+                className="MuiBox-root css-70qvj9"
+              >
+                <div
+                  className="MuiBox-root css-12grxnk"
+                >
+                  4
+                </div>
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+              </div>
+              <div
+                className="MuiBox-root css-70qvj9"
+              >
+                <div
+                  className="MuiBox-root css-12grxnk"
+                >
+                  5
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          className="MuiBox-root css-1l4w6pd"
+        >
+          <div
+            className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root MuiBox-root css-1vnw3yw-MuiPaper-root-MuiCard-root"
+          >
+            <div
+              className="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+            >
+              <h2
+                className="MuiBox-root css-bg7b88"
+              >
+                Step 
+                1
+              </h2>
+              <p
+                className="MuiBox-root css-tpn2mu"
+              >
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          className="MuiBox-root css-1bvc4cc"
+        >
+          <div
+            className="MuiBox-root css-h5fkc8"
+          >
+            <button
+              className="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButtonBase-root MuiBox-root css-tnpy5q-MuiButtonBase-root-MuiButton-root"
+              disabled={false}
+              onBlur={[Function]}
+              onClick={[Function]}
+              onContextMenu={[Function]}
+              onDragLeave={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              onKeyUp={[Function]}
+              onMouseDown={[Function]}
+              onMouseLeave={[Function]}
+              onMouseUp={[Function]}
+              onTouchEnd={[Function]}
+              onTouchMove={[Function]}
+              onTouchStart={[Function]}
+              tabIndex={0}
+              type="button"
+            >
+              Next
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;

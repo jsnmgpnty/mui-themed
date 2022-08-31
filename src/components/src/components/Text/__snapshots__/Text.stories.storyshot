@@ -1,0 +1,128 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Typography Default 1`] = `
+Array [
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap"
+    rel="stylesheet"
+  />,
+  <div
+    className="MuiBox-root css-16uhgig"
+  >
+    <div
+      className="MuiBox-root css-0"
+    >
+      <h1
+        className="MuiBox-root css-hxptu2"
+      >
+        Display Bold
+      </h1>
+      <h1
+        className="MuiBox-root css-ymfnys"
+      >
+        Display
+      </h1>
+      <h1
+        className="MuiBox-root css-19sbspi"
+      >
+        Title 1 Bold
+      </h1>
+      <h1
+        className="MuiBox-root css-17v96vr"
+      >
+        Title 1
+      </h1>
+      <h2
+        className="MuiBox-root css-kmy9i4"
+      >
+        Title 2 Bold
+      </h2>
+      <h2
+        className="MuiBox-root css-11zrm5o"
+      >
+        Title 2
+      </h2>
+      <h3
+        className="MuiBox-root css-1hmzuz6"
+      >
+        Title 3 Bold
+      </h3>
+      <h3
+        className="MuiBox-root css-12ofa2w"
+      >
+        Title 3
+      </h3>
+      <h4
+        className="MuiBox-root css-ylpah0"
+      >
+        Title 4 Bold
+      </h4>
+      <h4
+        className="MuiBox-root css-14ecluj"
+      >
+        Title 4
+      </h4>
+      <h5
+        className="MuiBox-root css-ussg9v"
+      >
+        Title 5 Bold
+      </h5>
+      <h5
+        className="MuiBox-root css-huki2c"
+      >
+        Title 5
+      </h5>
+      <h6
+        className="MuiBox-root css-1rc7h2j"
+      >
+        Title 6 Bold
+      </h6>
+      <h6
+        className="MuiBox-root css-18d9u9t"
+      >
+        Title 6
+      </h6>
+      <p
+        className="MuiBox-root css-84y535"
+      >
+        Large
+      </p>
+      <p
+        className="MuiBox-root css-1052ff4"
+      >
+        Large Bold
+      </p>
+      <p
+        className="MuiBox-root css-bmbbu0"
+      >
+        Body
+      </p>
+      <p
+        className="MuiBox-root css-tpn2mu"
+      >
+        Body Bold
+      </p>
+      <p
+        className="MuiBox-root css-pa51gb"
+      >
+        Small
+      </p>
+      <p
+        className="MuiBox-root css-164ovm0"
+      >
+        Small Bold
+      </p>
+      <p
+        className="MuiBox-root css-1gmcnxr"
+      >
+        Extra Small
+      </p>
+      <p
+        className="MuiBox-root css-j2src6"
+      >
+        Small Bold
+      </p>
+    </div>
+  </div>,
+]
+`;

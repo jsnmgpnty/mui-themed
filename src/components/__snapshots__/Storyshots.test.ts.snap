@@ -1,0 +1,6096 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Avatar Default 1`] = `
+Array [
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <link
+    href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <link
+    href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <div
+    className="MuiBox-root css-16uhgig"
+  >
+    <div
+      className="MuiBox-root css-1z0pfhy"
+    >
+      <div
+        className="MuiBox-root css-70qvj9"
+      >
+        <div
+          className="MuiAvatar-root MuiAvatar-circular MuiBox-root css-zk62a8-MuiAvatar-root"
+        >
+          <img
+            className="MuiAvatar-img css-1pqm26d-MuiAvatar-img"
+            src="https://i.pravatar.cc/320"
+          />
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;
+
+exports[`Storyshots Blurs Default 1`] = `
+Array [
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <link
+    href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <link
+    href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <div
+    className="MuiBox-root css-16uhgig"
+  >
+    <div
+      className="MuiBox-root css-1pnn3ne"
+    >
+      <div
+        className="MuiContainer-root MuiContainer-maxWidthLg css-1oqqzyl-MuiContainer-root"
+      >
+        <div
+          className="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-4 css-480o17-MuiGrid-root"
+        >
+          <div
+            className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 css-1b3l6lk-MuiGrid-root"
+          >
+            <div
+              className="MuiBox-root css-1yjvs5a"
+            >
+              <div
+                className="MuiBox-root css-lncd37"
+              >
+                <p
+                  className="MuiBox-root css-1u8dvc3"
+                >
+                  sm light
+                </p>
+              </div>
+            </div>
+            <div
+              className="MuiBox-root css-1yjvs5a"
+            >
+              <div
+                className="MuiBox-root css-1wbagzu"
+              >
+                <p
+                  className="MuiBox-root css-1u8dvc3"
+                >
+                  md light
+                </p>
+              </div>
+            </div>
+            <div
+              className="MuiBox-root css-1yjvs5a"
+            >
+              <div
+                className="MuiBox-root css-ftrbls"
+              >
+                <p
+                  className="MuiBox-root css-1u8dvc3"
+                >
+                  lg light
+                </p>
+              </div>
+            </div>
+            <div
+              className="MuiBox-root css-1yjvs5a"
+            >
+              <div
+                className="MuiBox-root css-1nsh1mu"
+              >
+                <p
+                  className="MuiBox-root css-1u8dvc3"
+                >
+                  xl light
+                </p>
+              </div>
+            </div>
+          </div>
+          <div
+            className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 css-1b3l6lk-MuiGrid-root"
+          >
+            <div
+              className="MuiBox-root css-1yjvs5a"
+            >
+              <div
+                className="MuiBox-root css-1p5fckh"
+              >
+                <p
+                  className="MuiBox-root css-1ikink7"
+                >
+                  sm dark
+                </p>
+              </div>
+            </div>
+            <div
+              className="MuiBox-root css-1yjvs5a"
+            >
+              <div
+                className="MuiBox-root css-11sr8dy"
+              >
+                <p
+                  className="MuiBox-root css-1ikink7"
+                >
+                  md dark
+                </p>
+              </div>
+            </div>
+            <div
+              className="MuiBox-root css-1yjvs5a"
+            >
+              <div
+                className="MuiBox-root css-2us9jt"
+              >
+                <p
+                  className="MuiBox-root css-1ikink7"
+                >
+                  lg dark
+                </p>
+              </div>
+            </div>
+            <div
+              className="MuiBox-root css-1yjvs5a"
+            >
+              <div
+                className="MuiBox-root css-2qzdal"
+              >
+                <p
+                  className="MuiBox-root css-1ikink7"
+                >
+                  xl dark
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;
+
+exports[`Storyshots Button Default 1`] = `
+Array [
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <link
+    href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <link
+    href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <div
+    className="MuiBox-root css-16uhgig"
+  >
+    <div
+      className="MuiBox-root css-3mdty7"
+    >
+      <div
+        className="MuiBox-root css-1qm1lh"
+      >
+        <button
+          className="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium css-d4t0wd-MuiButtonBase-root-MuiButton-root"
+          disabled={false}
+          hoverShadow="primary_100_xs"
+          onBlur={[Function]}
+          onContextMenu={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          Primary Button
+        </button>
+      </div>
+      <div
+        className="MuiBox-root css-1qm1lh"
+      >
+        <button
+          className="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium css-tgdm0j-MuiButtonBase-root-MuiButton-root"
+          disabled={false}
+          hoverShadow="primary_100_xs"
+          onBlur={[Function]}
+          onContextMenu={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          Secondary Button
+        </button>
+      </div>
+      <div
+        className="MuiBox-root css-1qm1lh"
+      >
+        <button
+          className="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium css-jprzsp-MuiButtonBase-root-MuiButton-root"
+          disabled={false}
+          onBlur={[Function]}
+          onContextMenu={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          Secondary Gray Button
+        </button>
+      </div>
+      <div
+        className="MuiBox-root css-1qm1lh"
+      >
+        <button
+          className="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium css-lch8bi-MuiButtonBase-root-MuiButton-root"
+          disabled={false}
+          onBlur={[Function]}
+          onContextMenu={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          Tertiary Button
+        </button>
+      </div>
+      <div
+        className="MuiBox-root css-1qm1lh"
+      >
+        <button
+          className="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium css-clr2yu-MuiButtonBase-root-MuiButton-root"
+          disabled={false}
+          onBlur={[Function]}
+          onContextMenu={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          Tertiary Gray Button
+        </button>
+      </div>
+      <div
+        className="MuiBox-root css-1qm1lh"
+      >
+        <button
+          className="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium css-afe7iz-MuiButtonBase-root-MuiButton-root"
+          disabled={false}
+          hoverShadow="error_100_xs"
+          onBlur={[Function]}
+          onContextMenu={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          Tertiary Gray Button
+        </button>
+      </div>
+    </div>
+  </div>,
+]
+`;
+
+exports[`Storyshots Card Default 1`] = `
+Array [
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <link
+    href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <link
+    href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <div
+    className="MuiBox-root css-16uhgig"
+  >
+    <div
+      className="MuiBox-root css-16r9pk3"
+    >
+      <div
+        className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-1qaim1d-MuiPaper-root-MuiCard-root"
+      >
+        <img
+          className="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+          height={140}
+          src="https://images2.minutemediacdn.com/image/upload/c_crop,h_1126,w_2000,x_0,y_181/f_auto,q_auto,w_1100/v1554932288/shape/mentalfloss/12531-istock-637790866.jpg"
+        />
+        <div
+          className="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          Card Description and content area
+        </div>
+        <div
+          className="MuiBox-root css-hpgf8j"
+        >
+          <div
+            className="MuiCardActions-root MuiCardActions-spacing css-1t6e9jv-MuiCardActions-root"
+          >
+            <button
+              className="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium css-fhiiiz-MuiButtonBase-root-MuiButton-root"
+              disabled={false}
+              onBlur={[Function]}
+              onContextMenu={[Function]}
+              onDragLeave={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              onKeyUp={[Function]}
+              onMouseDown={[Function]}
+              onMouseLeave={[Function]}
+              onMouseUp={[Function]}
+              onTouchEnd={[Function]}
+              onTouchMove={[Function]}
+              onTouchStart={[Function]}
+              tabIndex={0}
+              type="button"
+            >
+              Learn more
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;
+
+exports[`Storyshots Checkbox Default 1`] = `
+Array [
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <link
+    href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <link
+    href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <div
+    className="MuiBox-root css-16uhgig"
+  >
+    <div
+      className="MuiBox-root css-16r9pk3"
+    >
+      <label
+        className="MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-j204z7-MuiFormControlLabel-root"
+      >
+        <span
+          className="MuiButtonBase-root MuiCheckbox-root MuiCheckbox-colorPrimary PrivateSwitchBase-root MuiCheckbox-root MuiCheckbox-colorPrimary css-s36mjo-MuiButtonBase-root-MuiCheckbox-root"
+          onBlur={[Function]}
+          onContextMenu={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={null}
+        >
+          <input
+            className="PrivateSwitchBase-input css-1m9pwf3"
+            data-indeterminate={false}
+            onChange={[Function]}
+            type="checkbox"
+          />
+          <span
+            className="css-14jwm2n"
+            fontSize="medium"
+          />
+        </span>
+        <span
+          className="MuiTypography-root MuiTypography-body1 MuiFormControlLabel-label css-ww1d4b-MuiTypography-root"
+        >
+          Checkbox
+        </span>
+      </label>
+    </div>
+  </div>,
+]
+`;
+
+exports[`Storyshots Colors Default 1`] = `
+Array [
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <link
+    href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <link
+    href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <div
+    className="MuiBox-root css-16uhgig"
+  >
+    <div
+      className="MuiBox-root css-1xe82d3"
+    >
+      <h3
+        className="MuiBox-root css-1obf7xv"
+      >
+        Primary
+      </h3>
+      <div
+        className="MuiBox-root css-1yjvs5a"
+      >
+        <p
+          className="MuiBox-root css-6298uv"
+        >
+          Primary
+        </p>
+        <div
+          className="MuiBox-root css-1dtnjt5"
+        >
+          <div
+            className="MuiBox-root css-ewxq25"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #310D55
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                primary_brandDark_base
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1gdv2go"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #FCF7FF
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                primary_brandDark_50
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-kmywn2"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #F7EDFF
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                primary_brandDark_100
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-xvzhim"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #EDD9FF
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                primary_brandDark_200
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-rj9s3u"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #DEB5FF
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                primary_brandDark_300
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-bhcj0y"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #C496EB
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                primary_brandDark_400
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-30tj86"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #A87DCF
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                primary_brandDark_500
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-tb8hmx"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #8C63B3
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                primary_brandDark_600
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1ctilzz"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #734A99
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                primary_brandDark_700
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-gtf3g7"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #59337D
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                primary_brandDark_800
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-14muufo"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #401C63
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                primary_brandDark_900
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-c0n45u"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #29054D
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                primary_brandDark_950
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiBox-root css-1yjvs5a"
+      >
+        <p
+          className="MuiBox-root css-6298uv"
+        >
+          Secondary
+        </p>
+        <div
+          className="MuiBox-root css-1dtnjt5"
+        >
+          <div
+            className="MuiBox-root css-nxcw4v"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #C6FFFF
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                primary_brandLight_base
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-wvd7g5"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #E3FFFF
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                primary_brandLight_50
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-uv7lzr"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #C2FCFC
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                primary_brandLight_100
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-pg9d3f"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #B0EBEB
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                primary_brandLight_200
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1lu7mb"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #96CFCF
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                primary_brandLight_300
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-i1sl5s"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #7AB3B3
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                primary_brandLight_400
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-hhi94d"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #619999
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                primary_brandLight_500
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1owozh5"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #477D7D
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                primary_brandLight_600
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1nsxaja"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #2E6666
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                primary_brandLight_700
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1ufeooj"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #0F4D4D
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                primary_brandLight_800
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-a5gccu"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #003636
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                primary_brandLight_900
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-jy878z"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #001F1F
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                primary_brandLight_950
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <h3
+        className="MuiBox-root css-1obf7xv"
+      >
+        Secondary
+      </h3>
+      <div
+        className="MuiBox-root css-1yjvs5a"
+      >
+        <p
+          className="MuiBox-root css-6298uv"
+        >
+          Moss
+        </p>
+        <div
+          className="MuiBox-root css-1dtnjt5"
+        >
+          <div
+            className="MuiBox-root css-jojqz2"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #06BEA7
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_moss_base
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1qb1ldm"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #E6FFFA
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_moss_50
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-8ixmzb"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #B8FFF0
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_moss_100
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1uvw1ns"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #63F7DE
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_moss_200
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-yu45pd"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #40DBC2
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_moss_300
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-gkipf2"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #00BFA6
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_moss_400
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1wioqhf"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #00A18C
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_moss_500
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1u80zqc"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #008573
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_moss_600
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1ol11ai"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #00695C
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_moss_700
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1goraey"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #004F42
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_moss_800
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1x6vwjc"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #00362E
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_moss_900
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-4brql"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #001F1A
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_moss_950
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiBox-root css-1yjvs5a"
+      >
+        <p
+          className="MuiBox-root css-6298uv"
+        >
+          Grapefruit
+        </p>
+        <div
+          className="MuiBox-root css-1dtnjt5"
+        >
+          <div
+            className="MuiBox-root css-1vqtzn6"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #FFCACA
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_grapefruit_base
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-137p4m1"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #FFF7F7
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_grapefruit_50
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-gwq5gb"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #FFEDED
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_grapefruit_100
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-mv861q"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #FFD6D6
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_grapefruit_200
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1q4f8gu"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #EBB5B8
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_grapefruit_300
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-90ilib"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #CF9C9C
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_grapefruit_400
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1y6k67o"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #B38282
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_grapefruit_500
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1is3x0b"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #966969
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_grapefruit_600
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-82jyb3"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #7D4F52
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_grapefruit_700
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1h5jomk"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #63383B
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_grapefruit_800
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-z9f2y6"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #4A2124
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_grapefruit_900
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-2em95l"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #330D0F
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_grapefruit_950
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiBox-root css-1yjvs5a"
+      >
+        <p
+          className="MuiBox-root css-6298uv"
+        >
+          Watermelon
+        </p>
+        <div
+          className="MuiBox-root css-1dtnjt5"
+        >
+          <div
+            className="MuiBox-root css-974qrh"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #FF6a6a
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_watermelon_base
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-137p4m1"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #FFF7F7
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_watermelon_50
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-9tfhbr"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #FFEDEB
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_watermelon_100
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1iabzi"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #FFD6D1
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_watermelon_200
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1ads6hu"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #FFADA8
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_watermelon_300
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-vdv37v"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #FF827D
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_watermelon_400
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1fh3oqr"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #ED5C5C
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_watermelon_500
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-110mhd7"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #CF3D45
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_watermelon_600
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-19pdepw"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #B01C2E
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_watermelon_700
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1uu3yv4"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #8C001F
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_watermelon_800
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-tg5mxv"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #610012
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_watermelon_900
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-102u1np"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #3B0300
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_watermelon_950
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiBox-root css-1yjvs5a"
+      >
+        <p
+          className="MuiBox-root css-6298uv"
+        >
+          Lilac
+        </p>
+        <div
+          className="MuiBox-root css-1dtnjt5"
+        >
+          <div
+            className="MuiBox-root css-1az2xhr"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #cfbcff
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_lilac_base
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-yupzpl"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #FAF7FF
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_lilac_50
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-il03au"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #F5EDFF
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_lilac_100
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-jm450d"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #E6DBFF
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_lilac_200
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-j3ma16"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #CFBAFC
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_lilac_300
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1p1uf1u"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #B39EE0
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_lilac_400
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1yxlalb"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #9685C4
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_lilac_500
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-xtaqc9"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #7D6BA8
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_lilac_600
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-x2eign"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #63548F
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_lilac_700
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1ndfesl"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #4A3D75
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_lilac_800
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-17z26et"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #33265C
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_lilac_900
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-ieekjz"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #1A1242
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_lilac_950
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiBox-root css-1yjvs5a"
+      >
+        <p
+          className="MuiBox-root css-6298uv"
+        >
+          Grape
+        </p>
+        <div
+          className="MuiBox-root css-1dtnjt5"
+        >
+          <div
+            className="MuiBox-root css-16bn44d"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #600dd0
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_grape_base
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1gdv2go"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #FCF7FF
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_grape_50
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-kmywn2"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #F7EDFF
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_grape_100
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-xvzhim"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #EDD9FF
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_grape_200
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-10dn7iv"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #D9B5FF
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_grape_300
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-2rxu00"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #C791FF
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_grape_400
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-ngnksc"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #B06EFF
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_grape_500
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-17zsjhc"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #9647FF
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_grape_600
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1lf7c92"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #7A29E6
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_grape_700
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-w59jr5"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #5C00C9
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_grape_800
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-op9k07"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #40008F
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_grape_900
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1hu6tj4"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #240059
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                secondary_grape_950
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <h3
+        className="MuiBox-root css-1obf7xv"
+      >
+        Supportive
+      </h3>
+      <div
+        className="MuiBox-root css-1yjvs5a"
+      >
+        <p
+          className="MuiBox-root css-6298uv"
+        >
+          Black
+        </p>
+        <div
+          className="MuiBox-root css-1dtnjt5"
+        >
+          <div
+            className="MuiBox-root css-hwpv8q"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #000000
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_black_base
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1qwqerl"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                rgb(98% 98% 98%)
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_black_lightness_50
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-ezxhth"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                rgb(94% 94% 94%)
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_black_lightness_100
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-k6cak0"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                rgb(88% 88% 88% / 10%)
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_black_lightness_200
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-199fkpw"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                rgb(77% 77% 77% / 20%)
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_black_lightness_300
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-12cyl5"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                rgb(66% 66% 66% / 30%)
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_black_lightness_400
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1p2pg1w"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                rgb(56% 56% 56% / 40%)
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_black_lightness_500
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-16l41qa"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                rgb(46% 46% 46% / 50%)
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_black_lightness_600
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-hz2vp7"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                rgb(36% 36% 36% / 60%)
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_black_lightness_700
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-q4v3u3"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                rgb(27% 27% 27% / 70%)
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_black_lightness_800
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-fmijib"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                rgb(18% 18% 18% / 80%)
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_black_lightness_900
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1bpw1ct"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                rgb(10% 10% 10% / 90%)
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_black_lightness_950
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiBox-root css-1yjvs5a"
+      >
+        <p
+          className="MuiBox-root css-6298uv"
+        >
+          Black (opacity)
+        </p>
+        <div
+          className="MuiBox-root css-loagp2"
+        >
+          <div
+            className="MuiBox-root css-1n5s79c"
+          >
+            <p
+              className="MuiBox-root css-9oou8u"
+            >
+              rgb(0% 0% 0% / 20%)
+            </p>
+            <p
+              className="MuiBox-root css-4q2hqv"
+            >
+              supportive_black_opacity_20
+            </p>
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiBox-root css-1yjvs5a"
+      >
+        <p
+          className="MuiBox-root css-6298uv"
+        >
+          Black (opacity)
+        </p>
+        <div
+          className="MuiBox-root css-13c8r9f"
+        >
+          <div
+            className="MuiBox-root css-1n5s79c"
+          >
+            <p
+              className="MuiBox-root css-9oou8u"
+            >
+              rgb(0% 0% 0% / 90%)
+            </p>
+            <p
+              className="MuiBox-root css-4q2hqv"
+            >
+              supportive_black_opacity_90
+            </p>
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiBox-root css-1yjvs5a"
+      >
+        <p
+          className="MuiBox-root css-6298uv"
+        >
+          Offblack
+        </p>
+        <div
+          className="MuiBox-root css-1dtnjt5"
+        >
+          <div
+            className="MuiBox-root css-u9a0g4"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #172136
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_offBlack_base
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-clgcnq"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #F7FAFF
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_offBlack_50
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-16wxy0p"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #EDF0FF
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_offBlack_100
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-djpzy4"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #D6E0FC
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_offBlack_200
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-r3dsm"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #BAC4E0
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_offBlack_300
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1hvsggk"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #A1A8C4
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_offBlack_400
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-v80x5o"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #858FA8
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_offBlack_500
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1ymwz10"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #6B758F
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_offBlack_600
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-9brwtm"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #545C75
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_offBlack_700
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-qhjt7g"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #3B455C
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_offBlack_800
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-b3vjpw"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #262E45
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_offBlack_900
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-14xc6gd"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #0F1A2E
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_offBlack_950
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiBox-root css-1yjvs5a"
+      >
+        <p
+          className="MuiBox-root css-6298uv"
+        >
+          Offblack (opacity)
+        </p>
+        <div
+          className="MuiBox-root css-1dtnjt5"
+        >
+          <div
+            className="MuiBox-root css-u9a0g4"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #172136
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_offBlack_opacity_base
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-q2zav5"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                rgb(10% 13% 21% / 90%)
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_offBlack_opacity_90
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-25hwxj"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                rgb(10% 13% 21% / 80%)
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_offBlack_opacity_80
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-dvac6"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                rgb(10% 13% 21% / 70%)
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_offBlack_opacity_70
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1p4hwcx"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                rgb(10% 13% 21% / 60%)
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_offBlack_opacity_60
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1k79fe0"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                rgb(10% 13% 21% / 50%)
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_offBlack_opacity_50
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-f9zpa6"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                rgb(10% 13% 21% / 40%)
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_offBlack_opacity_40
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-njtnig"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                rgb(10% 13% 21% / 30%)
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_offBlack_opacity_30
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1t7subw"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                rgb(10% 13% 21% / 20%)
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_offBlack_opacity_20
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-kpb526"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                rgb(10% 13% 21% / 10%)
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_offBlack_opacity_10
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiBox-root css-1yjvs5a"
+      >
+        <p
+          className="MuiBox-root css-6298uv"
+        >
+          Grey
+        </p>
+        <div
+          className="MuiBox-root css-1dtnjt5"
+        >
+          <div
+            className="MuiBox-root css-parvoo"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #101828
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_grey_base
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-clgcnq"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #F7FAFF
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_grey_50
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-16wxy0p"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #EDF0FF
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_grey_100
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1i1wyeg"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #D9E0F7
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_grey_200
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-m1sbua"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #BDC4D9
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_grey_300
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-b1gxw1"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #A1A8BF
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_grey_400
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1huz99n"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #878FA3
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_grey_500
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1nksvwk"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #6E758A
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_grey_600
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1nk7u3h"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #545C70
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_grey_700
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-u254yf"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #3D4557
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_grey_800
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-b483br"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #262E40
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_grey_900
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-w8lvt5"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #121A29
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_grey_950
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiBox-root css-1yjvs5a"
+      >
+        <p
+          className="MuiBox-root css-6298uv"
+        >
+          Light grey
+        </p>
+        <div
+          className="MuiBox-root css-1dtnjt5"
+        >
+          <div
+            className="MuiBox-root css-1wxat88"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #f3f4fb
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_lightGrey_base
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-clgcnq"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #F7FAFF
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_lightGrey_50
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-xotwbq"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #F0F0F7
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_lightGrey_100
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-13qy1ik"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #DEE0E8
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_lightGrey_200
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1g8zggb"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #C2C4CC
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_lightGrey_300
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-3hmlyb"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #A8A8B0
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_lightGrey_400
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1kgkmp4"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #8C8F94
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_lightGrey_500
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-14jbpfi"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #73757A
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_lightGrey_600
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-8sgj6l"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #5C5C63
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_lightGrey_700
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-15u7ej9"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #42454A
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_lightGrey_800
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-ndyyje"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #2E2E33
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_lightGrey_900
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1ai89sh"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #1A1A1F
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                supportive_lightGrey_950
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <h3
+        className="MuiBox-root css-1obf7xv"
+      >
+        Functional
+      </h3>
+      <div
+        className="MuiBox-root css-1yjvs5a"
+      >
+        <p
+          className="MuiBox-root css-6298uv"
+        >
+          Functional Error
+        </p>
+        <div
+          className="MuiBox-root css-1dtnjt5"
+        >
+          <div
+            className="MuiBox-root css-1bmzppt"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #e01e54
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                functional_error_base
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-137p4m1"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #FFF7F7
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                functional_error_50
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-gwq5gb"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #FFEDED
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                functional_error_100
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-mv861q"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #FFD6D6
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                functional_error_200
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1ogt0yr"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #FFADB3
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                functional_error_300
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-zrzx4"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #FF808F
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                functional_error_400
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-t3s9cv"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #FC456B
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                functional_error_500
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-18ujdte"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #DE1C52
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                functional_error_600
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1g4xwlz"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #B50040
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                functional_error_700
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-18luat4"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #8A002E
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                functional_error_800
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-enyw4i"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #61001F
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                functional_error_900
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-rscudd"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #3B000D
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                functional_error_950
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiBox-root css-1yjvs5a"
+      >
+        <p
+          className="MuiBox-root css-6298uv"
+        >
+          Functional Warning
+        </p>
+        <div
+          className="MuiBox-root css-1dtnjt5"
+        >
+          <div
+            className="MuiBox-root css-xeilw1"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #ecb22e
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                functional_warning_base
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-14g2jax"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #FFF7F0
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                functional_warning_50
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-12re7eh"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #FFEDD4
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                functional_warning_100
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-ze8bai"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #FFD999
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                functional_warning_200
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1ofy560"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #F2B836
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                functional_warning_300
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-10a3bzf"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #D69E12
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                functional_warning_400
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1iai5z4"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #B58500
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                functional_warning_500
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-hqjxqc"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #966E00
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                functional_warning_600
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1u8k9j6"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #755700
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                functional_warning_700
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-xxn5bk"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #594000
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                functional_warning_800
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-dg3969"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #3D2B00
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                functional_warning_900
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-7zlvgr"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #211700
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                functional_warning_950
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiBox-root css-1yjvs5a"
+      >
+        <p
+          className="MuiBox-root css-6298uv"
+        >
+          Functional Success
+        </p>
+        <div
+          className="MuiBox-root css-1dtnjt5"
+        >
+          <div
+            className="MuiBox-root css-e1yvmh"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #2eb67d
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                functional_success_base
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-muasjt"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #E8FFF2
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                functional_success_50
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-w5ortv"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #BFFFDB
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                functional_success_100
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-b5n6p9"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #78F7BA
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                functional_success_200
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-17yvrh"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #59DB9E
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                functional_success_300
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-a692dp"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #38BF85
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                functional_success_400
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-y6ndkx"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #00A36B
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                functional_success_500
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-ti809a"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #008557
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                functional_success_600
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-mlyvu9"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #006B45
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                functional_success_700
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-ouk3sq"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #004F33
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                functional_success_800
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1f90wds"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #003621
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                functional_success_900
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-rcd4le"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #001F12
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                functional_success_950
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <h3
+        className="MuiBox-root css-1obf7xv"
+      >
+        Text
+      </h3>
+      <div
+        className="MuiBox-root css-1yjvs5a"
+      >
+        <p
+          className="MuiBox-root css-6298uv"
+        >
+          Text light on dark
+        </p>
+        <div
+          className="MuiBox-root css-1dtnjt5"
+        >
+          <div
+            className="MuiBox-root css-wlz2qe"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #ffffff
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                text_lightOnDark_100
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-pqxiut"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                rgb(100% 100% 100% / 80%)
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                text_lightOnDark_80
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-b5swdp"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                rgb(100% 100% 100% / 60%)
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                text_lightOnDark_60
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-5m8358"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                rgb(100% 100% 100% / 40%)
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                text_lightOnDark_40
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-x4ghur"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                rgb(100% 100% 100% / 20%)
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                text_lightOnDark_20
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiBox-root css-1yjvs5a"
+      >
+        <p
+          className="MuiBox-root css-6298uv"
+        >
+          Text dark on light
+        </p>
+        <div
+          className="MuiBox-root css-1dtnjt5"
+        >
+          <div
+            className="MuiBox-root css-hwpv8q"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #000000
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                text_darkOnLight_100
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-7puq1i"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                rgb(0% 0% 0% / 80%)
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                text_darkOnLight_80
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-mqlrk6"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                rgb(0% 0% 0% / 60%)
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                text_darkOnLight_60
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1bcsxw7"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                rgb(0% 0% 0% / 40%)
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                text_darkOnLight_40
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-18wo7ps"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                rgb(0% 0% 0% / 20%)
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                text_darkOnLight_20
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiBox-root css-1yjvs5a"
+      >
+        <p
+          className="MuiBox-root css-6298uv"
+        >
+          Text off black on light
+        </p>
+        <div
+          className="MuiBox-root css-1dtnjt5"
+        >
+          <div
+            className="MuiBox-root css-zn16p3"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #171236
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                text_offBlackOnLight_100
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1l29o9h"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                rgb(9% 7% 21% / 80%)
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                text_offBlackOnLight_80
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-at5x2k"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                rgb(9% 7% 21% / 60%)
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                text_offBlackOnLight_60
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-73ls3b"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                rgb(9% 7% 21% / 40%)
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                text_offBlackOnLight_40
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-lzxp5r"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                rgb(9% 7% 21% / 20%)
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                text_offBlackOnLight_20
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiBox-root css-1yjvs5a"
+      >
+        <p
+          className="MuiBox-root css-6298uv"
+        >
+          Text brand light on dark
+        </p>
+        <div
+          className="MuiBox-root css-1dtnjt5"
+        >
+          <div
+            className="MuiBox-root css-eclm80"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #c6ffff
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                text_brandLightOnDark_100
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-fekgkj"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                rgb(77% 100% 100% / 80%)
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                text_brandLightOnDark_80
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1wuhrol"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                rgb(77% 100% 100% / 60%)
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                text_brandLightOnDark_60
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1m8wbvt"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                rgb(77% 100% 100% / 40%)
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                text_brandLightOnDark_40
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-4e8z27"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                rgb(77% 100% 100% / 20%)
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                text_brandLightOnDark_20
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiBox-root css-1yjvs5a"
+      >
+        <p
+          className="MuiBox-root css-6298uv"
+        >
+          Text brand dark on light
+        </p>
+        <div
+          className="MuiBox-root css-1dtnjt5"
+        >
+          <div
+            className="MuiBox-root css-1jm50h7"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                #310d55
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                text_brandDarkOnLight_100
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-b4ht4b"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                rgb(19% 5% 34% / 80%)
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                text_brandDarkOnLight_80
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1h4otir"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                rgb(19% 5% 34% / 60%)
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                text_brandDarkOnLight_60
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-1wgpn04"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                rgb(19% 5% 34% / 40%)
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                text_brandDarkOnLight_40
+              </p>
+            </div>
+          </div>
+          <div
+            className="MuiBox-root css-vnep94"
+          >
+            <div
+              className="MuiBox-root css-1n5s79c"
+            >
+              <p
+                className="MuiBox-root css-9oou8u"
+              >
+                rgb(19% 5% 34% / 20%)
+              </p>
+              <p
+                className="MuiBox-root css-4q2hqv"
+              >
+                text_brandDarkOnLight_20
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <h3
+        className="MuiBox-root css-1obf7xv"
+      >
+        Link
+      </h3>
+      <div
+        className="MuiBox-root css-1yjvs5a"
+      >
+        <p
+          className="MuiBox-root css-6298uv"
+        >
+          Text link on light
+        </p>
+        <div
+          className="MuiBox-root css-z3x0j"
+        >
+          <div
+            className="MuiBox-root css-1n5s79c"
+          >
+            <p
+              className="MuiBox-root css-9oou8u"
+            >
+              #600DD0
+            </p>
+            <p
+              className="MuiBox-root css-4q2hqv"
+            >
+              text_link_onLight
+            </p>
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiBox-root css-1yjvs5a"
+      >
+        <p
+          className="MuiBox-root css-6298uv"
+        >
+          Text link on dark
+        </p>
+        <div
+          className="MuiBox-root css-1j3a8gu"
+        >
+          <div
+            className="MuiBox-root css-1n5s79c"
+          >
+            <p
+              className="MuiBox-root css-9oou8u"
+            >
+              #CFBCFF
+            </p>
+            <p
+              className="MuiBox-root css-4q2hqv"
+            >
+              text_link_onDark
+            </p>
+          </div>
+        </div>
+      </div>
+      <h3
+        className="MuiBox-root css-1obf7xv"
+      >
+        Background
+      </h3>
+      <div
+        className="MuiBox-root css-1yjvs5a"
+      >
+        <p
+          className="MuiBox-root css-6298uv"
+        >
+          Background light
+        </p>
+        <div
+          className="MuiBox-root css-m06ioi"
+        >
+          <div
+            className="MuiBox-root css-1n5s79c"
+          >
+            <p
+              className="MuiBox-root css-9oou8u"
+            >
+              #FFFFFF
+            </p>
+            <p
+              className="MuiBox-root css-4q2hqv"
+            >
+              background_light
+            </p>
+          </div>
+        </div>
+      </div>
+      <div
+        className="MuiBox-root css-1yjvs5a"
+      >
+        <p
+          className="MuiBox-root css-6298uv"
+        >
+          Background dark
+        </p>
+        <div
+          className="MuiBox-root css-125jkda"
+        >
+          <div
+            className="MuiBox-root css-1n5s79c"
+          >
+            <p
+              className="MuiBox-root css-9oou8u"
+            >
+              #172136
+            </p>
+            <p
+              className="MuiBox-root css-4q2hqv"
+            >
+              background_dark
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;
+
+exports[`Storyshots Company Logo Default 1`] = `
+Array [
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <link
+    href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <link
+    href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <div
+    className="MuiBox-root css-16uhgig"
+  >
+    <div
+      className="MuiBox-root css-ckhjuy"
+    >
+      <div
+        className="MuiBox-root css-1qm1lh"
+      >
+        <span
+          className="MuiBox-root css-1u3xpr1"
+        >
+          <svg
+            fill="none"
+            height="100%"
+            viewBox="0 0 124 32"
+            width="100%"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M1.5135 1.51058C2.48196 0.543346 3.7952 0 5.1645 0H14.8269L0 13.9117V5.15793C0.000628984 3.78974 0.545036 2.47781 1.5135 1.51058Z"
+              fill="currentColor"
+            />
+            <path
+              d="M1.51266 30.4886C0.544128 29.5208 0 28.2083 0 26.8397L0.0118731 18.0859L14.8387 32H5.1645C3.79479 32 2.48119 31.4563 1.51266 30.4886Z"
+              fill="currentColor"
+            />
+            <path
+              d="M8.33399 15.993L22.7386 29.5041C23.2289 28.6975 23.4874 27.7716 23.4859 26.828V5.15797C23.4879 4.21421 23.2293 3.28819 22.7386 2.48182L8.33399 15.993Z"
+              fill="currentColor"
+            />
+            <path
+              clip-rule="evenodd"
+              d="M65.5588 9.41259C66.2222 9.68007 66.8218 10.0839 67.319 10.5978L69.1836 8.86266H72.7611V27.6835H69.1836L67.319 25.9483C66.8218 26.4623 66.2222 26.8661 65.5588 27.1335C64.5452 27.5165 63.4682 27.7047 62.3846 27.6882C61.1642 27.7006 59.9561 27.4423 58.8475 26.9321C57.7942 26.4538 56.8491 25.7667 56.0696 24.9125C55.2592 24.0438 54.6223 23.0285 54.1931 21.9211C53.3297 19.5705 53.3297 16.9899 54.1931 14.6393C54.6223 13.5319 55.2592 12.5165 56.0696 11.6479C56.8491 10.7936 57.7942 10.1065 58.8475 9.62831C59.9561 9.11802 61.1642 8.85977 62.3846 8.87216C63.4673 8.85107 64.5442 9.03442 65.5588 9.41259ZM66.3511 22.1036C66.812 21.6791 67.1595 21.1462 67.3617 20.5534C67.89 19.0855 67.89 17.4796 67.3617 16.0117C67.1595 15.4189 66.812 14.886 66.3511 14.4615C65.9403 14.0519 65.4316 13.7541 64.8732 13.5963C64.292 13.3991 63.6816 13.3014 63.0679 13.3071C62.4333 13.3041 61.8057 13.4401 61.2293 13.7053C60.6732 13.971 60.1713 14.3375 59.749 14.7862C59.3042 15.2374 58.9605 15.778 58.7408 16.372C58.257 17.5998 58.257 18.9653 58.7408 20.1931C58.9605 20.7871 59.3042 21.3277 59.749 21.7788C60.1713 22.2275 60.6732 22.594 61.2293 22.8597C61.8057 23.125 62.4333 23.2609 63.0679 23.258C63.6816 23.2637 64.292 23.1659 64.8732 22.9688C65.4316 22.811 65.9403 22.5131 66.3511 22.1036Z"
+              fill="currentColor"
+              fill-rule="evenodd"
+            />
+            <path
+              clip-rule="evenodd"
+              d="M119.429 8.86266L117.564 10.5978C117.067 10.0839 116.467 9.68007 115.804 9.41259C114.789 9.03424 113.711 8.85089 112.628 8.87216C111.408 8.85996 110.201 9.11822 109.093 9.62831C108.039 10.1058 107.094 10.793 106.315 11.6479C105.504 12.5159 104.867 13.5314 104.438 14.6393C103.572 16.9893 103.572 19.5711 104.438 21.9211C104.867 23.0289 105.504 24.0444 106.315 24.9125C107.094 25.7674 108.039 26.4546 109.093 26.9321C110.201 27.4421 111.408 27.7004 112.628 27.6882C113.712 27.7049 114.79 27.5167 115.804 27.1335C116.467 26.8661 117.067 26.4623 117.564 25.9483L119.429 27.6835H123.016V8.86266H119.429ZM117.607 20.5415C117.405 21.1343 117.057 21.6672 116.596 22.0917C116.186 22.5013 115.677 22.7991 115.118 22.9569C114.537 23.1537 113.927 23.2515 113.313 23.2461C112.678 23.2494 112.051 23.1134 111.475 22.8479C110.918 22.5829 110.416 22.2163 109.994 21.767C109.55 21.3153 109.205 20.775 108.984 20.1812C108.503 18.9528 108.503 17.5886 108.984 16.3602C109.205 15.7664 109.55 15.2261 109.994 14.7744C110.416 14.3251 110.918 13.9585 111.475 13.6935C112.051 13.4279 112.678 13.292 113.313 13.2953C113.927 13.2899 114.537 13.3877 115.118 13.5845C115.677 13.7423 116.186 14.0401 116.596 14.4496C117.057 14.8741 117.405 15.407 117.607 15.9999C118.135 17.4677 118.135 19.0736 117.607 20.5415Z"
+              fill="currentColor"
+              fill-rule="evenodd"
+            />
+            <path
+              d="M80.6155 10.5956C81.5393 9.94965 82.5582 9.45143 83.6355 9.11888C84.2594 8.94137 84.906 8.85671 85.5546 8.86762C86.5447 8.88919 87.5278 9.03817 88.4797 9.31088L88.0052 13.8573C87.7324 13.8075 87.462 13.7459 87.1915 13.6724C86.9473 13.6202 86.7001 13.5829 86.4514 13.561C86.2072 13.5155 85.9596 13.491 85.7112 13.4875C84.9581 13.4819 84.2088 13.5947 83.4908 13.8217C82.8603 14.0231 82.2713 14.3362 81.7519 14.7461C81.2595 15.1379 80.8553 15.629 80.5657 16.1873C80.2693 16.731 80.1166 17.3413 80.1221 17.9604V27.6789H75.1735V8.8605H78.7509L80.6155 10.5956Z"
+              fill="currentColor"
+            />
+            <path
+              d="M53.9813 8.86739H47.2985L41.0143 14.7649V4.21197H40.6964C39.3273 4.21197 38.0143 4.75539 37.0463 5.72269C36.0782 6.68999 35.5343 8.00194 35.5343 9.36991V22.5255C35.534 23.2027 35.6673 23.8733 35.9267 24.499C36.186 25.1247 36.5664 25.6931 37.0458 26.1717C37.5253 26.6504 38.0945 27.0298 38.7209 27.2884C39.3473 27.547 40.0187 27.6796 40.6964 27.6787H41.0285V21.9187L42.9786 19.8138L48.1976 27.6811H54.7594L46.4564 16.1563L53.9813 8.86739Z"
+              fill="currentColor"
+            />
+            <path
+              d="M97.5435 8.35552H102.594V12.9778H97.5554V20.3022C97.5554 21.1808 97.8187 21.8572 98.3453 22.3313C98.9458 22.8217 99.7056 23.0747 100.48 23.0424C101.202 23.0388 101.916 22.8988 102.585 22.6299V26.9772C101.932 27.1852 101.266 27.3491 100.592 27.4679C99.9004 27.6165 99.195 27.692 98.4877 27.693C97.7129 27.6961 96.9413 27.5948 96.1936 27.392C95.4766 27.1966 94.8094 26.8507 94.2365 26.3775C93.6333 25.838 93.1584 25.1707 92.8463 24.4243C92.496 23.4488 92.3303 22.4167 92.3577 21.3807V12.9635H89.6864V9.31789L92.3695 8.33655C92.3707 8.33108 92.3707 8.32543 92.3695 8.31996C92.3932 8.1967 92.4241 8.07818 92.4573 7.95966L92.4858 7.85299C92.519 7.74395 92.5546 7.63492 92.5949 7.53062C92.6044 7.50218 92.616 7.47374 92.6276 7.4453C92.6334 7.43108 92.6392 7.41685 92.6447 7.40262C92.6549 7.37923 92.6659 7.35358 92.677 7.32748C92.7019 7.26896 92.7278 7.20821 92.7491 7.16559L92.8416 6.98069C92.8725 6.91906 92.8962 6.87639 92.9389 6.80054C92.971 6.7434 93.0113 6.67819 93.0434 6.62619C93.0539 6.60916 93.0635 6.59355 93.0717 6.5801C93.1049 6.52558 93.1381 6.47343 93.1737 6.42128L93.2923 6.25536L93.4252 6.0847C93.4424 6.0645 93.4596 6.04407 93.4769 6.02354C93.5144 5.97904 93.5523 5.93413 93.5912 5.89032L93.6695 5.80972C93.7502 5.72202 93.8356 5.6367 93.9234 5.55373L94.0016 5.48498C94.0942 5.40439 94.1891 5.3238 94.2887 5.24795L94.3646 5.19106C94.5502 5.05282 94.7452 4.92768 94.9482 4.81654L95.0668 4.75492C95.1617 4.70514 95.259 4.65773 95.3586 4.61506L95.5081 4.55343C95.577 4.52393 95.6606 4.49443 95.725 4.4717C95.7382 4.46704 95.7506 4.46266 95.7619 4.45862C95.8283 4.43492 95.8971 4.41358 95.9635 4.39462L96.1272 4.34721C96.2293 4.32113 96.3336 4.29743 96.438 4.2761L96.578 4.25238C96.6895 4.23342 96.8081 4.21684 96.9267 4.20499H97.0192C97.1497 4.1884 97.2778 4.18839 97.4106 4.18839H97.5435V8.35552Z"
+              fill="currentColor"
+            />
+          </svg>
+        </span>
+      </div>
+    </div>
+  </div>,
+]
+`;
+
+exports[`Storyshots File Upload Field Default 1`] = `
+Array [
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <link
+    href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <link
+    href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <div
+    className="MuiBox-root css-16uhgig"
+  >
+    <div
+      className="MuiBox-root css-1cl7zdz"
+    >
+      <div
+        className="MuiBox-root css-68zbsl"
+      >
+        <div
+          className="MuiBox-root css-1qm1lh"
+        >
+          <div
+            className="MuiBox-root css-zp76v7"
+          >
+            <label
+              className="MuiBox-root css-0"
+            >
+              <span
+                className="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium css-160ahy-MuiButtonBase-root-MuiButton-root"
+                onBlur={[Function]}
+                onContextMenu={[Function]}
+                onDragLeave={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                onKeyUp={[Function]}
+                onMouseDown={[Function]}
+                onMouseLeave={[Function]}
+                onMouseUp={[Function]}
+                onTouchEnd={[Function]}
+                onTouchMove={[Function]}
+                onTouchStart={[Function]}
+                role="button"
+                tabIndex={0}
+              >
+                Select a file
+              </span>
+              <input
+                className="MuiBox-root css-1hyfx7x"
+                data-testid="file-upload-field-input-undefined"
+                onChange={[Function]}
+                type="file"
+              />
+            </label>
+            <input
+              className="MuiBox-root css-1vbdzms"
+              data-testid="file-upload-field-text-undefined"
+              disabled={true}
+              error={false}
+              type="text"
+              value="https://images2.minutemediacdn.com/image/upload/c_crop,h_1126,w_2000,x_0,y_181/f_auto,q_auto,w_1100/v1554932288/shape/mentalfloss/12531-istock-637790866.jpg"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;
+
+exports[`Storyshots Icon Button Default 1`] = `
+Array [
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <link
+    href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <link
+    href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <div
+    className="MuiBox-root css-16uhgig"
+  >
+    <div
+      className="MuiBox-root css-3mdty7"
+    >
+      <div
+        className="MuiBox-root css-1qm1lh"
+      >
+        <button
+          className="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1wcbh78-MuiButtonBase-root-MuiIconButton-root"
+          disabled={false}
+          onBlur={[Function]}
+          onContextMenu={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+            data-testid="ArrowForwardIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="m12 4-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z"
+            />
+          </svg>
+        </button>
+      </div>
+      <div
+        className="MuiBox-root css-1qm1lh"
+      >
+        <button
+          className="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-o43j1b-MuiButtonBase-root-MuiIconButton-root"
+          disabled={false}
+          onBlur={[Function]}
+          onContextMenu={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+            data-testid="ArrowForwardIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="m12 4-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z"
+            />
+          </svg>
+        </button>
+      </div>
+      <div
+        className="MuiBox-root css-1qm1lh"
+      >
+        <button
+          className="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-lcnghr-MuiButtonBase-root-MuiIconButton-root"
+          disabled={false}
+          onBlur={[Function]}
+          onContextMenu={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+            data-testid="ArrowForwardIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="m12 4-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z"
+            />
+          </svg>
+        </button>
+      </div>
+      <div
+        className="MuiBox-root css-1qm1lh"
+      >
+        <button
+          className="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-jwb23t-MuiButtonBase-root-MuiIconButton-root"
+          disabled={false}
+          onBlur={[Function]}
+          onContextMenu={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+            data-testid="ArrowForwardIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="m12 4-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z"
+            />
+          </svg>
+        </button>
+      </div>
+      <div
+        className="MuiBox-root css-1qm1lh"
+      >
+        <button
+          className="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-8kcvwm-MuiButtonBase-root-MuiIconButton-root"
+          disabled={false}
+          onBlur={[Function]}
+          onContextMenu={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+            data-testid="ArrowForwardIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="m12 4-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z"
+            />
+          </svg>
+        </button>
+      </div>
+    </div>
+  </div>,
+]
+`;
+
+exports[`Storyshots Icon Default 1`] = `
+Array [
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <link
+    href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <link
+    href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <div
+    className="MuiBox-root css-16uhgig"
+  >
+    <div
+      className="MuiBox-root css-14efejn"
+    >
+      <h2
+        className="MuiBox-root css-vw4ee7"
+      >
+        Icons
+      </h2>
+      <div
+        className="MuiBox-root css-1qm1lh"
+      />
+    </div>
+  </div>,
+]
+`;
+
+exports[`Storyshots Link Default 1`] = `
+Array [
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <link
+    href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <link
+    href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <div
+    className="MuiBox-root css-16uhgig"
+  >
+    <div
+      className="MuiBox-root css-14efejn"
+    >
+      <div
+        className="MuiBox-root css-1qm1lh"
+      >
+        <a
+          className="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineNone css-15tyzw5-MuiTypography-root-MuiLink-root"
+          href="https://www.google.com"
+          onBlur={[Function]}
+          onFocus={[Function]}
+          target="_blank"
+        >
+          I am a clickable link
+        </a>
+      </div>
+    </div>
+  </div>,
+]
+`;
+
+exports[`Storyshots Modal Default 1`] = `
+Array [
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <link
+    href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <link
+    href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <div
+    className="MuiBox-root css-16uhgig"
+  >
+    <div
+      className="MuiBox-root css-1bxarir"
+    >
+      <button
+        className="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium css-d4t0wd-MuiButtonBase-root-MuiButton-root"
+        disabled={false}
+        hoverShadow="primary_100_xs"
+        onBlur={[Function]}
+        onClick={[Function]}
+        onContextMenu={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        Open modal
+      </button>
+    </div>
+  </div>,
+]
+`;
+
+exports[`Storyshots Multi Step Default 1`] = `
+Array [
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <link
+    href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <link
+    href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <div
+    className="MuiBox-root css-16uhgig"
+  >
+    <div
+      className="MuiBox-root css-1bxarir"
+    >
+      <div
+        className="MuiBox-root css-178yklu"
+      >
+        <div
+          className="MuiBox-root css-1l4w6pd"
+        >
+          <div
+            className="MuiBox-root css-1yjvs5a"
+          >
+            <div
+              className="MuiBox-root css-k008qs"
+            >
+              <div
+                className="MuiBox-root css-70qvj9"
+              >
+                <div
+                  className="MuiBox-root css-79u9du"
+                >
+                  1
+                </div>
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+              </div>
+              <div
+                className="MuiBox-root css-70qvj9"
+              >
+                <div
+                  className="MuiBox-root css-12grxnk"
+                >
+                  2
+                </div>
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+              </div>
+              <div
+                className="MuiBox-root css-70qvj9"
+              >
+                <div
+                  className="MuiBox-root css-12grxnk"
+                >
+                  3
+                </div>
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+              </div>
+              <div
+                className="MuiBox-root css-70qvj9"
+              >
+                <div
+                  className="MuiBox-root css-12grxnk"
+                >
+                  4
+                </div>
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+                <div
+                  className="MuiBox-root css-2w8tgp"
+                />
+              </div>
+              <div
+                className="MuiBox-root css-70qvj9"
+              >
+                <div
+                  className="MuiBox-root css-12grxnk"
+                >
+                  5
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          className="MuiBox-root css-1l4w6pd"
+        >
+          <div
+            className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root MuiBox-root css-wfofi4-MuiPaper-root-MuiCard-root"
+          >
+            <div
+              className="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+            >
+              <h2
+                className="MuiBox-root css-yx3mqy"
+              >
+                Step 
+                1
+              </h2>
+              <p
+                className="MuiBox-root css-14gn49v"
+              >
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          className="MuiBox-root css-1bvc4cc"
+        >
+          <div
+            className="MuiBox-root css-h5fkc8"
+          >
+            <button
+              className="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiBox-root css-dawang-MuiButtonBase-root-MuiButton-root"
+              disabled={false}
+              hoverShadow="primary_100_xs"
+              onBlur={[Function]}
+              onClick={[Function]}
+              onContextMenu={[Function]}
+              onDragLeave={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              onKeyUp={[Function]}
+              onMouseDown={[Function]}
+              onMouseLeave={[Function]}
+              onMouseUp={[Function]}
+              onTouchEnd={[Function]}
+              onTouchMove={[Function]}
+              onTouchStart={[Function]}
+              tabIndex={0}
+              type="button"
+            >
+              Next
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;
+
+exports[`Storyshots Picker Default 1`] = `
+Array [
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <link
+    href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <link
+    href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <div
+    className="MuiBox-root css-16uhgig"
+  >
+    <div
+      className="MuiBox-root css-1cl7zdz"
+    >
+      <div
+        className="MuiBox-root css-bi8af3"
+      >
+        <div
+          className="MuiBox-root css-s5smnm"
+        >
+          <button
+            className="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium css-1dlai55-MuiButtonBase-root-MuiButton-root"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onContextMenu={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            Send via SMS
+          </button>
+        </div>
+        <div
+          className="MuiBox-root css-wtzf60"
+        >
+          <button
+            className="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium css-2bo0yu-MuiButtonBase-root-MuiButton-root"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onContextMenu={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            Send via Email
+          </button>
+        </div>
+        <div
+          className="MuiBox-root css-wtzf60"
+        >
+          <button
+            className="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium css-2bo0yu-MuiButtonBase-root-MuiButton-root"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onContextMenu={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            Send via Stork
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;
+
+exports[`Storyshots Radio Default 1`] = `
+Array [
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <link
+    href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <link
+    href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <div
+    className="MuiBox-root css-16uhgig"
+  >
+    <div
+      className="MuiBox-root css-16r9pk3"
+    >
+      <div
+        className="MuiFormGroup-root css-dmmspl-MuiFormGroup-root"
+        role="radiogroup"
+      >
+        <label
+          className="MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-j204z7-MuiFormControlLabel-root"
+        >
+          <span
+            className="MuiButtonBase-root MuiRadio-root MuiRadio-colorPrimary PrivateSwitchBase-root MuiRadio-root MuiRadio-colorPrimary css-c779l1-MuiButtonBase-root-MuiRadio-root"
+            onBlur={[Function]}
+            onContextMenu={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={null}
+          >
+            <input
+              checked={false}
+              className="PrivateSwitchBase-input css-1m9pwf3"
+              onChange={[Function]}
+              type="radio"
+              value="First"
+            />
+            <span
+              className="css-1cigiel"
+              fontSize="medium"
+            />
+          </span>
+          <span
+            className="MuiTypography-root MuiTypography-body1 MuiFormControlLabel-label css-ww1d4b-MuiTypography-root"
+          >
+            First
+          </span>
+        </label>
+        <label
+          className="MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-j204z7-MuiFormControlLabel-root"
+        >
+          <span
+            className="MuiButtonBase-root MuiRadio-root MuiRadio-colorPrimary PrivateSwitchBase-root MuiRadio-root MuiRadio-colorPrimary css-c779l1-MuiButtonBase-root-MuiRadio-root"
+            onBlur={[Function]}
+            onContextMenu={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={null}
+          >
+            <input
+              checked={false}
+              className="PrivateSwitchBase-input css-1m9pwf3"
+              onChange={[Function]}
+              type="radio"
+              value="Second"
+            />
+            <span
+              className="css-1cigiel"
+              fontSize="medium"
+            />
+          </span>
+          <span
+            className="MuiTypography-root MuiTypography-body1 MuiFormControlLabel-label css-ww1d4b-MuiTypography-root"
+          >
+            Second
+          </span>
+        </label>
+        <label
+          className="MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-j204z7-MuiFormControlLabel-root"
+        >
+          <span
+            className="MuiButtonBase-root MuiRadio-root MuiRadio-colorPrimary PrivateSwitchBase-root MuiRadio-root MuiRadio-colorPrimary css-c779l1-MuiButtonBase-root-MuiRadio-root"
+            onBlur={[Function]}
+            onContextMenu={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={null}
+          >
+            <input
+              checked={false}
+              className="PrivateSwitchBase-input css-1m9pwf3"
+              onChange={[Function]}
+              type="radio"
+              value="Third"
+            />
+            <span
+              className="css-1cigiel"
+              fontSize="medium"
+            />
+          </span>
+          <span
+            className="MuiTypography-root MuiTypography-body1 MuiFormControlLabel-label css-ww1d4b-MuiTypography-root"
+          >
+            Third
+          </span>
+        </label>
+      </div>
+    </div>
+  </div>,
+]
+`;
+
+exports[`Storyshots Select Default 1`] = `
+Array [
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <link
+    href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <link
+    href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <div
+    className="MuiBox-root css-16uhgig"
+  >
+    <div
+      className="MuiBox-root css-1cl7zdz"
+    >
+      <div
+        className="MuiFormControl-root css-1nrlq1o-MuiFormControl-root"
+      >
+        <div
+          className="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorPrimary MuiInputBase-formControl css-yi9d5n-MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root"
+          onClick={[Function]}
+        >
+          <div
+            aria-expanded="false"
+            aria-haspopup="listbox"
+            className="MuiSelect-select MuiSelect-outlined MuiInputBase-input MuiOutlinedInput-input css-1jvwwtw-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input"
+            onBlur={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onMouseDown={[Function]}
+            role="button"
+            tabIndex={0}
+          >
+            Ten
+          </div>
+          <input
+            aria-hidden={true}
+            className="MuiSelect-nativeInput css-yf8vq0-MuiSelect-nativeInput"
+            disabled={false}
+            onAnimationStart={[Function]}
+            onChange={[Function]}
+            required={false}
+            tabIndex={-1}
+            value={10}
+          />
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiSelect-icon MuiSelect-iconOutlined css-hfutr2-MuiSvgIcon-root-MuiSelect-icon"
+            data-testid="ArrowDropDownIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </svg>
+          <fieldset
+            aria-hidden={true}
+            className="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+          >
+            <legend
+              className="css-hdw1oc"
+            >
+              <span
+                className="notranslate"
+              >
+                ​
+              </span>
+            </legend>
+          </fieldset>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;
+
+exports[`Storyshots Shadows Default 1`] = `
+Array [
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <link
+    href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <link
+    href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <div
+    className="MuiBox-root css-16uhgig"
+  >
+    <div
+      className="MuiBox-root css-1j7y90h"
+    >
+      <div
+        className="MuiBox-root css-1b1xjlu"
+      >
+        <p
+          className="MuiBox-root css-1u8dvc3"
+        >
+          xs
+        </p>
+        <div
+          className="MuiBox-root css-pkp8tn"
+        />
+      </div>
+      <div
+        className="MuiBox-root css-1b1xjlu"
+      >
+        <p
+          className="MuiBox-root css-1u8dvc3"
+        >
+          sm
+        </p>
+        <div
+          className="MuiBox-root css-fxoc58"
+        />
+      </div>
+      <div
+        className="MuiBox-root css-1b1xjlu"
+      >
+        <p
+          className="MuiBox-root css-1u8dvc3"
+        >
+          md
+        </p>
+        <div
+          className="MuiBox-root css-1xxw0n1"
+        />
+      </div>
+      <div
+        className="MuiBox-root css-1b1xjlu"
+      >
+        <p
+          className="MuiBox-root css-1u8dvc3"
+        >
+          lg
+        </p>
+        <div
+          className="MuiBox-root css-183z3l5"
+        />
+      </div>
+      <div
+        className="MuiBox-root css-1b1xjlu"
+      >
+        <p
+          className="MuiBox-root css-1u8dvc3"
+        >
+          xl
+        </p>
+        <div
+          className="MuiBox-root css-oqn2cw"
+        />
+      </div>
+      <div
+        className="MuiBox-root css-1b1xjlu"
+      >
+        <p
+          className="MuiBox-root css-1u8dvc3"
+        >
+          2xl
+        </p>
+        <div
+          className="MuiBox-root css-6gtg5r"
+        />
+      </div>
+      <div
+        className="MuiBox-root css-1b1xjlu"
+      >
+        <p
+          className="MuiBox-root css-1u8dvc3"
+        >
+          3xl
+        </p>
+        <div
+          className="MuiBox-root css-715ice"
+        />
+      </div>
+    </div>
+  </div>,
+]
+`;
+
+exports[`Storyshots Switch Default 1`] = `
+Array [
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <link
+    href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <link
+    href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <div
+    className="MuiBox-root css-16uhgig"
+  >
+    <div
+      className="MuiBox-root css-16r9pk3"
+    >
+      <span
+        className="MuiSwitch-root MuiSwitch-sizeMedium css-1ai40ul-MuiSwitch-root"
+      >
+        <span
+          className="MuiButtonBase-root MuiSwitch-switchBase MuiSwitch-colorPrimary PrivateSwitchBase-root MuiSwitch-switchBase MuiSwitch-colorPrimary css-1r4rbfa-MuiButtonBase-root-MuiSwitch-switchBase"
+          onBlur={[Function]}
+          onContextMenu={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={null}
+        >
+          <input
+            className="PrivateSwitchBase-input MuiSwitch-input css-1m9pwf3"
+            onChange={[Function]}
+            type="checkbox"
+          />
+          <span
+            className="MuiSwitch-thumb css-jsexje-MuiSwitch-thumb"
+          />
+        </span>
+        <span
+          className="MuiSwitch-track css-1yjjitx-MuiSwitch-track"
+        />
+      </span>
+    </div>
+  </div>,
+]
+`;
+
+exports[`Storyshots TextField Default 1`] = `
+Array [
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <link
+    href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <link
+    href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <div
+    className="MuiBox-root css-16uhgig"
+  >
+    <div
+      className="MuiBox-root css-1v5z18m"
+    >
+      <div
+        className="MuiBox-root css-1qm1lh"
+      >
+        <div
+          className="MuiBox-root css-0"
+        >
+          <div
+            className="MuiBox-root css-1gcz17a"
+          >
+            <div
+              className="MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-1f8oz4p-MuiFormControl-root-MuiTextField-root"
+              onItemSelect={[Function]}
+              selectedItem="ABC"
+            >
+              <div
+                className="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-formControl css-1qv5dr6-MuiInputBase-root-MuiOutlinedInput-root"
+                onClick={[Function]}
+              >
+                <input
+                  aria-invalid={false}
+                  autoFocus={false}
+                  className="MuiInputBase-input MuiOutlinedInput-input css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input"
+                  disabled={false}
+                  onAnimationStart={[Function]}
+                  onBlur={[Function]}
+                  onChange={[Function]}
+                  onFocus={[Function]}
+                  required={false}
+                  type="text"
+                  value=""
+                />
+                <fieldset
+                  aria-hidden={true}
+                  className="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+                >
+                  <legend
+                    className="css-hdw1oc"
+                  >
+                    <span
+                      className="notranslate"
+                    >
+                      ​
+                    </span>
+                  </legend>
+                </fieldset>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;
+
+exports[`Storyshots Tooltip Default 1`] = `
+Array [
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <link
+    href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <link
+    href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <div
+    className="MuiBox-root css-16uhgig"
+  >
+    <div
+      className="MuiBox-root css-1jpcp03"
+    >
+      <div
+        className="MuiBox-root css-xi606m"
+      >
+        <p
+          className="MuiBox-root css-14gn49v"
+        >
+          Hover over the icon
+        </p>
+        <button
+          aria-label={null}
+          aria-labelledby={null}
+          className="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium  css-15zxjdm-MuiButtonBase-root-MuiIconButton-root"
+          data-mui-internal-clone-element={true}
+          disabled={false}
+          onBlur={[Function]}
+          onContextMenu={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseOver={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        />
+      </div>
+    </div>
+  </div>,
+]
+`;
+
+exports[`Storyshots Typography Default 1`] = `
+Array [
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <link
+    href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <link
+    href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <div
+    className="MuiBox-root css-16uhgig"
+  >
+    <div
+      className="MuiBox-root css-0"
+    >
+      <h1
+        className="MuiBox-root css-xhkj34"
+      >
+        Display 2XL
+      </h1>
+      <h1
+        className="MuiBox-root css-vbz09s"
+      >
+        Display XL
+      </h1>
+      <h2
+        className="MuiBox-root css-vw4ee7"
+      >
+        Display Large
+      </h2>
+      <h3
+        className="MuiBox-root css-1obf7xv"
+      >
+        Display Medium
+      </h3>
+      <h4
+        className="MuiBox-root css-1of1kmm"
+      >
+        Display Small
+      </h4>
+      <h5
+        className="MuiBox-root css-bxdqnt"
+      >
+        Display XS
+      </h5>
+      <h6
+        className="MuiBox-root css-539qfb"
+      >
+        Display XXS
+      </h6>
+      <p
+        className="MuiBox-root css-539qfb"
+      >
+        Text XL
+      </p>
+      <p
+        className="MuiBox-root css-yoo03p"
+      >
+        Text Large
+      </p>
+      <p
+        className="MuiBox-root css-14gn49v"
+      >
+        Text Medium
+      </p>
+      <p
+        className="MuiBox-root css-1ptspde"
+      >
+        Text Small
+      </p>
+      <p
+        className="MuiBox-root css-1tuzgln"
+      >
+        Text Extra Small
+      </p>
+    </div>
+  </div>,
+]
+`;
+
+exports[`Storyshots Verify Code Field Default 1`] = `
+Array [
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <link
+    href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <link
+    href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&display=swap"
+    rel="stylesheet"
+  />,
+  <div
+    className="MuiBox-root css-16uhgig"
+  >
+    <div
+      className="MuiBox-root css-1cl7zdz"
+    >
+      <div
+        className="MuiBox-root css-0"
+      >
+        <div
+          className="MuiBox-root css-7boy05"
+        >
+          <div
+            className="MuiBox-root css-7lf5py"
+            onKeyDown={[Function]}
+            role="button"
+            size="xs"
+            tabIndex={0}
+          >
+            1
+          </div>
+          <div
+            className="MuiBox-root css-7lf5py"
+            onKeyDown={[Function]}
+            role="button"
+            size="xs"
+            tabIndex={1}
+          >
+            2
+          </div>
+          <div
+            className="MuiBox-root css-7lf5py"
+            onKeyDown={[Function]}
+            role="button"
+            size="xs"
+            tabIndex={2}
+          >
+            3
+          </div>
+          <div
+            className="MuiBox-root css-7lf5py"
+            onKeyDown={[Function]}
+            role="button"
+            size="xs"
+            tabIndex={3}
+          >
+            4
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;

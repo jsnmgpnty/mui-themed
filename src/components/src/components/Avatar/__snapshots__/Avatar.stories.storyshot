@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Avatar Default 1`] = `
+Array [
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap"
+    rel="stylesheet"
+  />,
+  <div
+    className="MuiBox-root css-16uhgig"
+  >
+    <div
+      className="MuiBox-root css-1z0pfhy"
+    >
+      <div
+        className="MuiBox-root css-70qvj9"
+      >
+        <div
+          className="MuiAvatar-root MuiAvatar-circular MuiBox-root css-14gv59z-MuiAvatar-root"
+        >
+          <img
+            className="MuiAvatar-img css-1pqm26d-MuiAvatar-img"
+            src="https://i.pravatar.cc/320"
+          />
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;
